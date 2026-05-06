@@ -3,7 +3,7 @@ title: "AI saves the human heart - 私がAIで本当に解きたい問題"
 emoji: "🫀"
 type: "idea"
 topics: ["ai", "設計思想", "bpo"]
-published: false
+published: true
 ---
 
 AIを導入する理由を聞かれたら、私は効率化とは答えない。
