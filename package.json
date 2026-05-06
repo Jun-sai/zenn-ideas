@@ -1,0 +1,26 @@
+{
+  "name": "zenn-ideas",
+  "version": "1.0.0",
+  "description": "Zenn ideas and design notes.",
+  "main": "index.js",
+  "scripts": {
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book",
+    "preview": "zenn preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jun-sai/zenn-ideas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jun-sai/zenn-ideas/issues"
+  },
+  "homepage": "https://github.com/Jun-sai/zenn-ideas#readme",
+  "dependencies": {
+    "zenn-cli": "^0.4.7"
+  }
+}
